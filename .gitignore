@@ -25,3 +25,5 @@ yarn-error.log*
 /build/
 /node_modules/
 /public/
+/.idea/docker-k8-frontend.iml
+/.idea/
