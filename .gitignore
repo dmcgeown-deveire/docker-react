@@ -24,6 +24,5 @@ yarn-error.log*
 /package-lock.json
 /build/
 /node_modules/
-/public/
 /.idea/docker-k8-frontend.iml
 /.idea/
